@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ldp-portfolio.vercel.app/sitemap.xml
